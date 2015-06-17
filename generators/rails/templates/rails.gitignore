@@ -1,0 +1,23 @@
+## rails
+##
+
+# Development database
+/db/*.sqlite3
+/db/*.sqlite3-journal
+
+# Logs
+/log/*
+!/log/.keep
+
+# Local gems
+/.bundle
+
+# Local configuration
+.env
+
+# Test artifacts
+/coverage
+
+# Generated docs
+/.yardoc
+/doc
